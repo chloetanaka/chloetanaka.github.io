@@ -1,0 +1,14 @@
+// Local theme token overrides. These override the gem defaults.
+// Accent color: sage green (#7BA67B)
+
+:root {
+  --global-theme-color: #7ba67b;
+  --global-hover-color: #7ba67b;
+  --global-hover-text-color: #ffffff;
+}
+
+html[data-theme="dark"] {
+  --global-theme-color: #93bd93;
+  --global-hover-color: #93bd93;
+  --global-hover-text-color: #1c1c1d;
+}

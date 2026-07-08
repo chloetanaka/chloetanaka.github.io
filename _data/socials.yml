@@ -1,14 +1,15 @@
-# this file contains the social media links and usernames of the author
-# the socials will be displayed in the order they are defined here
-# for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
-email: you@example.com # your email address
-inspirehep_id: 1010907 # Inspire HEP author ID
-rss_icon: true # comment this line to hide the RSS icon
-scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
-# wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
-# whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
-  title: Custom Social
-  url: https://www.alberteinstein.com/
+# Social icons shown under the profile photo on the About page.
+# They display in the order listed here. Only three are enabled: email, Google Scholar, LinkedIn.
+
+email: chloetanaka@g.harvard.edu
+
+# Google Scholar: this is the "user=XXXXXXXX" value in your Scholar profile URL.
+# e.g. scholar.google.com/citations?user=ntAWWKIAAAAJ  -> scholar_userid: ntAWWKIAAAAJ
+scholar_userid: SCHOLAR_ID_HERE
+
+# LinkedIn: the part after /in/ in your profile URL.
+# e.g. linkedin.com/in/chloe-tanaka-123  -> linkedin_username: chloe-tanaka-123
+linkedin_username: LINKEDIN_USERNAME_HERE
+
+# (Optional) Uncomment to add a CV download icon too:
+# cv_pdf: /assets/pdf/cv.pdf
