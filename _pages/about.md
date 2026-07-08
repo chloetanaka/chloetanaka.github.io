@@ -6,7 +6,7 @@ subtitle:   # <-- edit to your exact title/affiliation
 
 profile:
   align: right
-  image: chloe_tanaka_pic.png
+  image: chloe_tanaka_pic_sq.png
   image_circular: true # circular profile photo
   more_info: >         # optional text under the photo; leave blank or add office/contact
     
