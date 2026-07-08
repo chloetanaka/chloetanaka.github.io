@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: PhD Candidate in FIELD, Harvard University   # <-- edit to your exact title/affiliation
 
@@ -21,10 +21,10 @@ latest_posts:
   enabled: false        # no blog feed
 ---
 
-Hello! I am a PhD candidate in FIELD at Harvard University. **I am on the 2026–2027 job market.**
+Hello! I am a PhD candidate in public policy and economics at [Harvard University](https://www.hks.harvard.edu/educational-programs/doctoral-programs/phd-public-policy). I research topics in environmental economics and labor economics with a particular focus on the labor market impacts of energy transitions.
 
-My research focuses on WRITE ONE OR TWO SENTENCES ABOUT YOUR RESEARCH INTERESTS HERE.
+**I am on the 2026/27 job market.**
 
-Before my PhD, ADD A SENTENCE ABOUT YOUR BACKGROUND (prior degrees, work, or fellowships).
+Prior to starting the PhD, I worked as an associate in private credit investment at Bridgepoint Capital and a research professional at the [Institute of Social and Economic Research](https://iseralaska.org/). I graduated from the [University of Cambridge](https://www.econ.cam.ac.uk/) in 2016 with an M.Phil in economics.
 
-You can reach me using the links below.
+I am a doctoral research associate at the [Reimagining the Economy](https://www.hks.harvard.edu/centers/wiener/programs/economy) project and a doctoral student fellow of the [Harvard Environmental Economics Program](https://heep.hks.harvard.edu/).
