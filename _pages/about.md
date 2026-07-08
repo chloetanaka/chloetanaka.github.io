@@ -9,12 +9,11 @@ profile:
   image: chloe_tanaka_pic_sq.png
   image_circular: true # circular profile photo
   more_info: >
-    <div style="display:flex;gap:0.9rem;justify-content:center;align-items:center;margin-top:0.6rem;font-size:1.2rem;">
+    <div style="display:flex;gap:0.9rem;justify-content:center;align-items:center;margin-top:0.6rem;font-size:1.8rem;">
     <a href="mailto:chloetanaka@g.harvard.edu" title="Email" aria-label="Email"><i class="fa-solid fa-envelope"></i></a>
     <a href="https://scholar.google.com/citations?user=7sZTS10AAAAJ" title="Google Scholar" aria-label="Google Scholar" target="_blank" rel="noopener"><i class="ai ai-google-scholar"></i></a>
     <a href="https://www.linkedin.com/in/chloe-tanaka-479657100" title="LinkedIn" aria-label="LinkedIn" target="_blank" rel="noopener"><i class="fa-brands fa-linkedin"></i></a>
     </div>
-    
 
 selected_papers: false # no auto publications list on the home page
 social: false          # icons are shown under the photo via more_info (above)
@@ -27,10 +26,11 @@ latest_posts:
 ---
 
 <style>
-  /* Home page tweaks — edit these numbers anytime */
-  .post-title .font-weight-bold { font-weight: 400 !important; }   /* first name: normal weight (change to 700 to re-bold) */
+  /* Home page tweaks — edit the numbers below anytime */
+  .post-title .font-weight-bold { font-weight: inherit !important; }  /* first name matches the rest of the name (not bold); use 700 to bold it */
   @media (min-width: 576px) {
-    .profile { width: 38% !important; }                            /* profile photo size (bigger number = larger) */
+    .profile { width: 38% !important; }                     /* photo size: bigger number = larger */
+    .profile.float-right { margin-left: 2rem !important; }  /* gap between photo and text (theme default 1rem) */
   }
 </style>
 
