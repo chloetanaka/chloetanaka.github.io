@@ -13,6 +13,6 @@ description: Curriculum Vitae
   </a>
 </div>
 
-<iframe src="{{ '/assets/pdf/cv.pdf' | relative_url }}" width="100%" height="900px" style="border: 1px solid var(--global-divider-color);">
+<iframe src="{{ '/assets/pdf/Tanaka_CV_202607.pdf' | relative_url }}" width="100%" height="900px" style="border: 1px solid var(--global-divider-color);">
   This browser does not support PDFs. <a href="{{ '/assets/pdf/Tanaka_CV_202607.pdf' | relative_url }}">Download the PDF</a>.
 </iframe>
