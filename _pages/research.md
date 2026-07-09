@@ -27,7 +27,8 @@ description:
   details.abstract[open] > summary::before { transform: rotate(90deg); }  /* points down when open */
   details.abstract p { margin-top: 0.5rem; text-align: justify; }
 
-  h2 { margin-bottom: 1.5rem; }   /* more space between section headers and the paper titles */
+  .post-header { display: none; }   /* hide the "Research" page heading (it stays in the nav bar) */
+  h2 { margin-top: 2.25rem; margin-bottom: 1.5rem; }   /* space between sections (top) + header-to-title (bottom) */
   p strong { font-weight: 900; }  /* bolder paper titles (Roboto Black) */
 </style>
 
@@ -49,7 +50,7 @@ description:
 
 <details class="abstract">
   <summary>Abstract</summary>
-  <p>Short description.</p>
+  <p>Could extreme weather influence education and career choices? This project investigates how foundational experiences with extreme weather shape human capital formation and innovative activity. We study the causal impact of exposure to extreme weather on college major choices, as well as on the direction, quality, and intensity of inventors’ output, examining the extent to which shifts in educational pathways serve as a mediating channel. By linking large-scale data on natural disasters to individual-level patent and education records, our research aims to provide new evidence on how personal experiences shape career trajectories and the evolution of technical progress.</p>
 </details>
 
 **The Effect of Coal Power Plant Retirements on Labor Market Outcomes**<br>

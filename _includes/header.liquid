@@ -1,4 +1,18 @@
 <header>
+  <style>
+    /* Local override styles for the name + email link in the nav bar */
+    .navbar-brand-email {
+      margin-left: 0.5rem;
+      font-size: 1.05rem;
+      color: inherit;
+      text-decoration: none;
+      align-self: center;
+    }
+    .navbar-brand,
+    .navbar-brand-email { transition: color 0.15s ease; }
+    .navbar-brand:hover,
+    .navbar-brand-email:hover { color: var(--global-hover-color) !important; }  /* flash link color on hover */
+  </style>
   <!-- Nav Bar -->
   <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}" role="navigation">
     <div class="container">
@@ -22,13 +36,7 @@
         </a>
         {%- comment -%} Local override: email link beside the name on inner pages {%- endcomment -%}
         {% if site.data.socials.email %}
-          <a
-            class="navbar-brand-email"
-            href="mailto:{{ site.data.socials.email }}"
-            title="Email"
-            aria-label="Email"
-            style="margin-left: 0.5rem; font-size: 1.05rem; color: inherit; text-decoration: none; align-self: center;"
-          >
+          <a class="navbar-brand-email" href="mailto:{{ site.data.socials.email }}" title="Email" aria-label="Email">
             <i class="fa-solid fa-envelope"></i>
           </a>
         {% endif %}
