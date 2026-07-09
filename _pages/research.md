@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /research/
-title: Research
+title:
 nav: true
 nav_order: 1
-description: Working papers and publications
+description:
 ---
 
 <style>
@@ -26,11 +26,14 @@ description: Working papers and publications
   }
   details.abstract[open] > summary::before { transform: rotate(90deg); }  /* points down when open */
   details.abstract p { margin-top: 0.5rem; text-align: justify; }
+
+  h2 { margin-bottom: 1.5rem; }   /* more space between section headers and the paper titles */
+  p strong { font-weight: 900; }  /* bolder paper titles (Roboto Black) */
 </style>
 
 ## Job Market Paper
 
-**Powering the Workforce: The Role of Community Colleges in Energy Transformations**
+**Powering the Workforce: The Role of Community Colleges in Energy Transformations**<br>
 [[PDF](#)] &nbsp; [[Slides](#)]
 
 <details class="abstract">
@@ -38,12 +41,10 @@ description: Working papers and publications
   <p>The pace of energy transformations depends not only on technology and capital, but also on the supply of skilled labor. Meeting rapidly growing electricity demand and decarbonization goals will require swift expansion of this workforce, yet whether local training institutions are equipped to deliver it remains an open question. Using the U.S. shale boom as a natural experiment, I estimate the causal effect of energy-induced changes in local labor demand on vocational programs and graduations at community colleges. Exploiting staggered boom timing across plays, I use stacked difference-in-differences and event-study designs. I find that colleges inside booming plays expand energy programs by 26% and energy completions by 111% relative to baseline, driven almost entirely by newly created programs. The response is slow but persistent, emerging several years after the boom and continuing for over a decade. Consistent with rising opportunity costs of enrollment, non-energy fields stagnate, with 10% fewer programs and 25% fewer completions than expected absent the boom. Extending the framework to the clean energy transition, I find that a one-gigawatt increase in local solar investment raises solar programs by 28% and completions by 37%. Community colleges can help train the energy workforce, but their adjustment is gradual, uneven, and costly to other fields.</p>
 </details>
 
----
-
 ## Selected Works in Progress
 
-**Blowin’ in the Wind: The Impact of Climate Disasters on College Majors and Innovation**
-(with [Avinash Moorthy](https://avi-moorthy.github.io/))
+**Blowin’ in the Wind: The Impact of Climate Disasters on College Majors and Innovation**<br>
+(with [Avinash Moorthy](https://avi-moorthy.github.io/))<br>
 [[PDF](#)]
 
 <details class="abstract">
@@ -51,23 +52,20 @@ description: Working papers and publications
   <p>Short description.</p>
 </details>
 
-**The Effect of Coal Power Plant Retirements on Labor Market Outcomes**
-(with Gordon Hanson)
+**The Effect of Coal Power Plant Retirements on Labor Market Outcomes**<br>
+(with Gordon Hanson)<br>
 [[PDF](#)]
 
 <details class="abstract">
   <summary>Abstract</summary>
   <p>Short description.</p>
 </details>
-
----
 
 ## Publications
 
-**Short-run impacts of a severance tax change: Evidence from Alaska**
-(with M. Reimer and M. Guettabi)
+**[Short-run impacts of a severance tax change: Evidence from Alaska](https://www.sciencedirect.com/science/article/pii/S0301421517302975)**<br>
+(with M. Reimer and M. Guettabi)<br>
 *Energy Policy*, 2017.
-[[Published version](#)] &nbsp; [[PDF](#)]
 
 <details class="abstract">
   <summary>Abstract</summary>

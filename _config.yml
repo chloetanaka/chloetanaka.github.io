@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Chloé
+first_name: 
 middle_name:
-last_name: Tanaka
+last_name: Chloé Tanaka
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -531,7 +531,7 @@ third_party_libraries:
     version: "5.5.0"
   google_fonts:
     url:
-      fonts: "https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons&display=swap"
+      fonts: "https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900|Roboto+Slab:100,300,400,500,700|Material+Icons&display=swap"
   highlightjs:
     integrity:
       css:
