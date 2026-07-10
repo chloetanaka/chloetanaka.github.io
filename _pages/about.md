@@ -32,6 +32,10 @@ latest_posts:
     .profile { width: 38% !important; }                     /* photo size: bigger number = larger */
     .profile.float-right { margin-left: 2rem !important; }  /* gap between photo and text (theme default 1rem) */
   }
+  /* Social icons under the photo: flash black on hover (white in dark mode so they stay visible) */
+  .more-info a { transition: color 0.15s ease; }
+  .more-info a:hover { color: #000 !important; }
+  html[data-theme="dark"] .more-info a:hover { color: #fff !important; }
 </style>
 
 <div style="text-align: justify;" markdown="1">
