@@ -128,6 +128,13 @@
                     {% endfor %}
                   </div>
                 </li>
+              {% elsif p.nav_external %}
+                {%- comment -%} Local option: open an external/asset URL (e.g. the CV PDF) in a new tab {%- endcomment -%}
+                <li class="nav-item {% if page.title == p.title %}active{% endif %}">
+                  <a class="nav-link" href="{{ p.nav_external | relative_url }}" target="_blank" rel="noopener noreferrer">
+                    {{- p.title -}}
+                  </a>
+                </li>
               {% else %}
                 {% assign parent_link = p.permalink | remove: 'index.html' %}
                 <li class="nav-item {% if page.url contains parent_link %}active{% endif %}">
