@@ -48,4 +48,6 @@ Prior to starting the PhD, I worked as an associate in private credit investment
 
 I am a doctoral research associate at the [Reimagining the Economy](https://www.hks.harvard.edu/centers/wiener/programs/economy) project and a doctoral student fellow of the [Harvard Environmental Economics Program](https://heep.hks.harvard.edu/).
 
+You can reach me at [chloetanaka@g.harvard.edu](mailto:chloetanaka@g.harvard.edu).
+
 </div>
