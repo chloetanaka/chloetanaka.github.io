@@ -34,8 +34,7 @@ description:
 
 ## Job Market Paper
 
-**Powering the Workforce: The Role of Community Colleges in Energy Transformations**<br>
-[[PDF](#)] &nbsp; [[Slides](#)]
+**Powering the Workforce: The Role of Community Colleges in Energy Transformations**
 
 <details class="abstract">
   <summary>Abstract</summary>
@@ -45,8 +44,7 @@ description:
 ## Selected Works in Progress
 
 **Blowin’ in the Wind: The Impact of Climate Disasters on College Majors and Innovation**<br>
-(with [Avinash Moorthy](https://avi-moorthy.github.io/))<br>
-[[PDF](#)]
+(with [Avinash Moorthy](https://avi-moorthy.github.io/))
 
 <details class="abstract">
   <summary>Abstract</summary>
@@ -54,8 +52,7 @@ description:
 </details>
 
 **The Effect of Coal Power Plant Retirements on Labor Market Outcomes**<br>
-(with Gordon Hanson)<br>
-[[PDF](#)]
+(with [Gordon Hanson](https://gordonhanson.scholars.harvard.edu/))
 
 <details class="abstract">
   <summary>Abstract</summary>
