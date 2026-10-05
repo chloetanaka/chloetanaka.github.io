@@ -30,15 +30,16 @@ description:
   .post-header { display: none; }   /* hide the "Research" page heading (it stays in the nav bar) */
   h2 { margin-top: 2.25rem; margin-bottom: 1.5rem; }   /* space between sections (top) + header-to-title (bottom) */
   p strong { font-weight: 900; }  /* bolder paper titles (Roboto Black) */
+  a.quiet-link, a.quiet-link:hover, a.quiet-link:focus { color: inherit; text-decoration: none; cursor: text; }  /* JMP title links to the PDF but looks like plain text */
 </style>
 
 ## Job Market Paper
 
-**Powering the Workforce: The Role of Community Colleges in Energy Transformations**
+**[Powering the Workforce: The Role of Community Colleges in Energy Transformations]({{ '/assets/pdf/Tanaka_JMP.pdf' | relative_url }}){:.quiet-link target="_blank" rel="noopener noreferrer"}**
 
 <details class="abstract">
   <summary>Abstract</summary>
-  <p>The pace of energy transformations depends not only on technology and capital, but also on the supply of skilled labor. Meeting rapidly growing electricity demand and decarbonization goals will require swift expansion of this workforce, yet whether local training institutions are equipped to deliver it remains an open question. Using the U.S. shale boom as a natural experiment, I estimate the causal effect of energy-induced changes in local labor demand on vocational programs and graduations at community colleges. Exploiting staggered boom timing across plays, I use stacked difference-in-differences and event-study designs. I find that colleges inside booming plays expand energy programs by 26% and energy completions by 111% relative to baseline, driven almost entirely by newly created programs. The response is slow but persistent, emerging several years after the boom and continuing for over a decade. Consistent with rising opportunity costs of enrollment, non-energy fields stagnate, with 10% fewer programs and 25% fewer completions than expected absent the boom. Extending the framework to the clean energy transition, I find that a one-gigawatt increase in local solar investment raises solar programs by 28% and completions by 37%. Community colleges can help train the energy workforce, but their adjustment is gradual, uneven, and costly to other fields.</p>
+  <p>Energy transformations change the skills local employers require, but does training adapt alongside? I study how training institutions and students respond to energy-induced shifts in local labor demand, using institutional data on the programs and graduates of U.S. community colleges from 1990 to 2024. I focus on two energy transformations, the shale oil and gas boom and the expansion of solar power. In both, resource endowments determine where the transformation occurs, while advances in technology and policy determine when. Shale-exposed colleges expand energy programs by 30%, relative to baseline, and graduates by 117%, almost entirely through new programs. Taken at face value, this response produced roughly 4,600 additional energy graduates in the subsequent decade, nearly one-third of the boom-induced increase in local middle-skill energy employment. Non-energy fields stagnate, with 10% fewer programs and 31% fewer graduates. In contrast, the solar effect is more muted, even per new job created. A one-gigawatt increase in local solar capacity raises solar programs by 10% and graduates by 21%. Nevertheless, colleges adjust on a more granular margin, nearly doubling solar sections in California course-level data. Turning to labor market outcomes in individual-level data from Texas, energy graduates earn approximately 14% more over ten years than observably similar graduates of other technical programs. These findings demonstrate how energy transformations shape local human-capital formation through community colleges.</p>
 </details>
 
 ## Selected Works in Progress
@@ -54,10 +55,6 @@ description:
 **The Effect of Coal Power Plant Retirements on Labor Market Outcomes**<br>
 (with [Gordon Hanson](https://gordonhanson.scholars.harvard.edu/))
 
-<details class="abstract">
-  <summary>Abstract</summary>
-  <p>Short description.</p>
-</details>
 
 ## Publications
 
