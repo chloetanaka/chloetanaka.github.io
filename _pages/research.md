@@ -30,12 +30,20 @@ description:
   .post-header { display: none; }   /* hide the "Research" page heading (it stays in the nav bar) */
   h2 { margin-top: 2.25rem; margin-bottom: 1.5rem; }   /* space between sections (top) + header-to-title (bottom) */
   p strong { font-weight: 900; }  /* bolder paper titles (Roboto Black) */
-  a.quiet-link, a.quiet-link:hover, a.quiet-link:focus { color: inherit; text-decoration: none; cursor: text; }  /* JMP title links to the PDF but looks like plain text */
+  a.paper-pdf {                    /* "Download paper (PDF)" button under the JMP title */
+    display: inline-flex; align-items: center; gap: 0.4rem;
+    margin-top: 0.1rem; padding: 0.3rem 0.85rem;
+    border: 1.5px solid var(--global-theme-color); border-radius: 0.4rem;
+    color: var(--global-theme-color); font-weight: 600; text-decoration: none;
+  }
+  a.paper-pdf:hover, a.paper-pdf:focus { background: var(--global-theme-color); color: #fff; text-decoration: none; }
 </style>
 
 ## Job Market Paper
 
-**[Powering the Workforce: The Role of Community Colleges in Energy Transformations]({{ '/assets/pdf/Tanaka_JMP.pdf' | relative_url }}){:.quiet-link target="_blank" rel="noopener noreferrer"}**
+**[Powering the Workforce: The Role of Community Colleges in Energy Transformations]({{ '/assets/pdf/Tanaka_JMP.pdf' | relative_url }}){:target="_blank" rel="noopener noreferrer"}**
+
+<a class="paper-pdf" href="{{ '/assets/pdf/Tanaka_JMP.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-file-pdf"></i> Download paper (PDF)</a>
 
 <details class="abstract">
   <summary>Abstract</summary>
