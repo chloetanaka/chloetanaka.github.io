@@ -49,11 +49,16 @@ description:
 
 <details class="abstract">
   <summary>Abstract</summary>
-  <p>Could extreme weather influence education and career choices? This project investigates how foundational experiences with extreme weather shape human capital formation and innovative activity. We study the causal impact of exposure to extreme weather on college major choices, as well as on the direction, quality, and intensity of inventors’ output, examining the extent to which shifts in educational pathways serve as a mediating channel. By linking large-scale data on natural disasters to individual-level patent and education records, our research aims to provide new evidence on how personal experiences shape career trajectories and the evolution of technical progress.</p>
+  <p>Could extreme weather influence education and career choices? This project investigates how foundational experiences with extreme weather shape human capital formation and innovative activity. We study the causal impact of exposure to extreme weather on college major choices, and on the direction, quality, and intensity of inventors’ output, examining whether shifts in educational pathways serve as a mediating channel. We use NOAA records on natural disaster damages to determine the timing and location of exposure. We combine these records with administrative data on educational institutions, college student surveys, LinkedIn employment and education histories, and individual-level patent records. Comparing students and graduation cohorts exposed to major natural disasters with their unexposed counterparts, we find preliminary evidence that exposure shifts major choices toward green fields, with stronger effects for earlier exposure. Turning to inventors, we find modest effects on green innovation, with stronger responses to late exposure. Our research provides new evidence on how personal experiences shape career trajectories and the evolution of technical progress, advancing our understanding of the factors that shape the supply of skills required to address a changing environment.</p>
 </details>
 
 **The Effect of Coal Power Retirements on Labor Market Outcomes**<br>
 (with [Gordon Hanson](https://gordonhanson.scholars.harvard.edu/))
+
+<details class="abstract">
+  <summary>Abstract</summary>
+  <p>Nearly half of U.S. coal-fired generators operating in 2000 had retired by 2022, representing more than one third of coal capacity. As electricity production shifts elsewhere, do the industries and jobs that depend on it follow? We build a dataset of roughly 1,100 coal generators, linking EIA, EPA, and FERC records on plant characteristics and regulatory exposure. Using LASSO selection models, we identify size, age, and emissions as the key predictors of closure. Retirement is largely a plant-level decision and unfolds gradually over years of declining generation. Replacement of lost capacity is also incomplete. Between 2010 and 2022, plants that retired coal generators lost roughly 80% of their coal capacity and 40% of their total generating capacity. Total capacity in their counties fell nearly 15%, while generation expanded in non-coal counties, more than offsetting the losses. We evaluate the labor market consequences of this local contraction in generating capacity.</p>
+</details>
 
 
 ## Publications
