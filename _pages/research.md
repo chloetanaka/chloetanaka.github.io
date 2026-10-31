@@ -34,7 +34,7 @@ description:
 
 ## Job Market Paper
 
-**[Powering the Workforce: The Role of Community Colleges in Energy Transformations]({{ '/assets/pdf/Tanaka_JMP.pdf' | relative_url }}){:target="_blank" rel="noopener noreferrer"}**
+**[Powering the Workforce: The Role of Community Colleges in Energy Transformations]({{ '/assets/pdf/Tanaka_JMP.pdf' | relative_url }}){:target="_blank" rel="noopener noreferrer"}** \[[PDF]({{ '/assets/pdf/Tanaka_JMP.pdf' | relative_url }}){:target="_blank" rel="noopener noreferrer"}\]
 
 <details class="abstract">
   <summary>Abstract</summary>
@@ -62,7 +62,7 @@ description:
 
 ## Publications
 
-**[Short-run impacts of a severance tax change: Evidence from Alaska](https://www.sciencedirect.com/science/article/pii/S0301421517302975)**<br>
+**[Short-run impacts of a severance tax change: Evidence from Alaska](https://www.sciencedirect.com/science/article/pii/S0301421517302975)** \[[PDF](https://www.sciencedirect.com/science/article/pii/S0301421517302975){:target="_blank" rel="noopener noreferrer"}\]<br>
 (with M. Reimer and M. Guettabi)<br>
 *Energy Policy*, 2017.
 
